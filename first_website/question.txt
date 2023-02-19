@@ -1,0 +1,5 @@
+1. Create a website with 3 files: index.html, about.html and contact.html.
+    Using links as learned. Link the 3 pages together. 
+    In each file, add some text using heading tags i.e. <h1>, wrap your textx using a <div> or <section> tag.
+
+2. Create a website that displays several images. One of the images should be the Power Learn Logo
